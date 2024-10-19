@@ -1,0 +1,13 @@
+.delivary{
+    background-color: transparent;
+    background-image: radial-gradient(at center left, #51A390 3%, #276153 81%);
+    height: 400px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 30px;
+    
+}
+.delivaryimg{
+    height: 400px;
+    width: 400px;
+}
