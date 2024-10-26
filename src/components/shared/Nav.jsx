@@ -20,6 +20,10 @@ const Nav = () => {
         path : "/about"
     },
     {
+      title : "Products",
+      path : "/products"
+  },
+    {
         title : "Service",
         path : "/service"
     },
